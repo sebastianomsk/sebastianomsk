@@ -17,8 +17,19 @@ I am interested in learning Python and Ionic.
 I am currently finishing Henry's 700hs Bootcamp and doing a final project for the National University of General San Martin.
 
 ### Let's get in touch!
-[Linkedin](www.linkedin.com/in/sebastián-mariano-avila-js/)
+[![alt text][1.1]][1]
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![alt text][2.1]][2]
 
+[1.1]: https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-48x48.png
+
+[1]: https://www.linkedin.com/in/sebastián-mariano-avila-js/
+
+[2.1]:https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/github-48x48.png
+
+[2]: https://github.com/avilasebastian
+
+[Linkedin]: www.linkedin.com/in/sebastián-mariano-avila-js/
 [GitHub University](https://github.com/avilasebastian)
 
 <!--
