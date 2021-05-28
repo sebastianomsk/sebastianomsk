@@ -1,7 +1,7 @@
 ### Hi there I'm Sebastian 👋
 I'm a Full Stack Developer who enjoys the path of constant learning! 
-I started programming with C, Java, and I am currently doing projects with Node.js
-I am interested in learning Python and Ionic. 
+⚡ I started programming with C, Java, and I am currently doing projects with Node.js
+🌱 I am interested in learning Python and Ionic. 
 
 ### Skills
 * ReactJs
@@ -14,7 +14,7 @@ I am interested in learning Python and Ionic.
 * Java (Xtend) | design patterns 
 * MySQL
 
-I am currently finishing Henry's 700hs Bootcamp and doing a final project for the National University of General San Martin.
+⚡ I am currently finishing Henry's 700hs Bootcamp and doing a final project for the National University of General San Martin.
 
 ### Let's get in touch!
 [![alt text][1.1]][1]
@@ -32,6 +32,28 @@ I am currently finishing Henry's 700hs Bootcamp and doing a final project for th
 [Linkedin]: www.linkedin.com/in/sebastián-mariano-avila-js/
 [GitHub University](https://github.com/avilasebastian)
 
+
+# Individual Project - Henry Videogames
+
+<table>
+  <tr>
+    <td>Landing Page</td>
+     <td>Home Page</td>
+  </tr>
+  <tr>
+    <td><img height="200" src="https://raw.githubusercontent.com/sebastianomsk/Videogames-ReactJS/master/client/src/images/Pantallas/Pantalla-inicial.jpg" /></td>
+    <td><img height="200" src="https://raw.githubusercontent.com/sebastianomsk/Videogames-ReactJS/master/client/src/images/Pantallas/Pantalla-Home.jpg" /></td>
+    
+  </tr>
+  <tr>
+    <td>Detail Page</td>
+     <td>Form Page</td>
+  </tr>
+  <tr>
+    <td><img height="200" src="https://raw.githubusercontent.com/sebastianomsk/Videogames-ReactJS/master/client/src/images/Pantallas/Pantalla-Detalle.png" /></td>
+    <td><img height="200" src="https://raw.githubusercontent.com/sebastianomsk/Videogames-ReactJS/master/client/src/images/Pantallas/Pantalla-Crear.jpg" /></td>
+  </tr>
+ </table>
 <!--
 **sebastianomsk/sebastianomsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
