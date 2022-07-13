@@ -1,7 +1,7 @@
 ### Hi there I'm Sebastian 👋
 I'm a Full Stack Developer who enjoys the path of constant learning! 
 ⚡ I started programming with C, Java, and I am currently doing projects with Node.js
-🌱 I am interested in learning Python and Ionic. 
+🌱 I am interested in learning Python. 
 
 ### Skills
 * ReactJs
